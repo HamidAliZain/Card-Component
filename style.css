@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: hsl(30, 38%, 92%);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fontstyle {
+    font-family: 'Fraunces', serif;
+
+}
+
+.green {
+    color: hsl(158, 36%, 37%);
+}
+.bggreen {
+    background-color: hsl(158, 36%, 37%);
+}
